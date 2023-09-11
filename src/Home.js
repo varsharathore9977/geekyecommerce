@@ -5,7 +5,7 @@ import { Disclosure} from '@headlessui/react';
 const products = [
   {
     id: 1,
-    name: 'Black T-Shirt',
+    name: 'Raymond T-Shirt',
     href: '#',
     imageSrc: 'https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png',
     imageAlt: "Front of men's Basic T-Shirt in black.",
@@ -16,7 +16,7 @@ const products = [
   },
   {
     id: 2,
-    name: 'Red T-Shirt',
+    name: 'Adidas T-Shirt',
     href: '#',
     imageSrc: 'https://i.pinimg.com/originals/fc/32/58/fc3258b666e68f9ba7595f87b5c035ef.png',
     imageAlt: "Front of men's Basic T-Shirt in red.",
@@ -27,7 +27,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Gray T-Shirt',
+    name: 'Nike T-Shirt',
     href: '#',
     imageSrc: 'https://freepngimg.com/save/36652-grey-t-shirt/580x665',
     imageAlt: "Front of men's Basic T-Shirt in gray.",
@@ -37,7 +37,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'White T-Shirt',
+    name: 'Siyaram T-Shirt',
     href: '#',
     imageSrc: 'https://simg.nicepng.com/png/small/66-668510_white-t-shirt-png-image-white-v-neck.png',
     imageAlt: "Front of men's Basic Tee in white.",
@@ -48,7 +48,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Green T-Shirt',
+    name: 'Puma T-Shirt',
     href: '#',
     imageSrc: 'https://pngimg.com/d/tshirt_PNG5454.png',
     imageAlt: "Front of men's Basic Tee in white.",
@@ -60,7 +60,7 @@ const products = [
 
   {
     id: 6,
-    name: 'Sky Blue T-Shirt',
+    name: 'Calvin Klein T-Shirt',
     href: '#',
     imageSrc: 'https://www.transparentpng.com/thumb/t-shirt/mD03wQ-women-blue-t-shirt-icon-clipart.png',
     imageAlt: "Front of men's Basic Tee in white.",
@@ -72,7 +72,7 @@ const products = [
 
   {
     id: 7,
-    name: 'Brown T-Shirt',
+    name: 'H&M T-Shirt',
     href: '#',
     imageSrc: 'https://i.pinimg.com/originals/d2/38/69/d23869a5f12122a888c5d8d9f6219fec.png',
     imageAlt: "Front of men's Basic Tee in white.",
@@ -84,7 +84,7 @@ const products = [
 
   {
     id: 8,
-    name: 'Pink T-Shirt',
+    name: 'Levis T-Shirt',
     href: '#',
     imageSrc: 'https://www.pngarts.com/files/5/Plain-Pink-T-Shirt-Transparent-Image.png',
     imageAlt: "Front of men's Basic Tee in white.",
