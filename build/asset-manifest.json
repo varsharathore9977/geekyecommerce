@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geekyecommerces/static/css/main.460c75c7.css",
+    "main.js": "/geekyecommerces/static/js/main.ea2153fb.js",
+    "static/js/787.510bf2bd.chunk.js": "/geekyecommerces/static/js/787.510bf2bd.chunk.js",
+    "index.html": "/geekyecommerces/index.html",
+    "main.460c75c7.css.map": "/geekyecommerces/static/css/main.460c75c7.css.map",
+    "main.ea2153fb.js.map": "/geekyecommerces/static/js/main.ea2153fb.js.map",
+    "787.510bf2bd.chunk.js.map": "/geekyecommerces/static/js/787.510bf2bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460c75c7.css",
+    "static/js/main.ea2153fb.js"
+  ]
+}
